@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838417397107",
+    "project_id": "songspheres",
+    "storage_bucket": "songspheres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838417397107:android:a503dede8aeb854fc10106",
+        "android_client_info": {
+          "package_name": "com.example.songspheres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEmHBKRPsO7_pFXDIL8su_h66tM145iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
